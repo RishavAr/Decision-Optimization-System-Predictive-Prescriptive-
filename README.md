@@ -328,10 +328,3 @@ Contributions welcome! Areas for improvement:
 
 ---
 
-<div align="center">
-
-**Built with ❤️ for ML/AI Interview Preparation**
-
-*Decision Modeling • Optimization • OR + ML Integration*
-
-</div>
