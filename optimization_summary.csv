@@ -1,0 +1,8 @@
+Metric,Value
+Best Model,Random Forest
+AUC-ROC,0.6696
+Optimal Threshold,0.168
+Total Profit,"$24,774"
+Approval Rate,24.8%
+Default Rate,6.5%
+Portfolio Value,"$1,450,255"

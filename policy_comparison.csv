@@ -1,0 +1,7 @@
+,threshold,total_profit,approval_rate,default_rate,avg_profit,n_approved,policy,description
+Ultra Conservative,0.15,17972.220000000005,0.18,0.06666666666666667,399.38266666666675,45,Ultra Conservative,Very low risk tolerance
+Conservative,0.25,-18841.590000000004,0.492,0.15447154471544716,-153.1836585365854,123,Conservative,Low risk tolerance
+Moderate,0.35,-55649.869999999995,0.692,0.19653179190751446,-321.67554913294794,173,Moderate,Balanced approach
+Aggressive,0.5,-132221.61,0.96,0.24583333333333332,-550.923375,240,Aggressive,Higher risk tolerance
+Ultra Aggressive,0.7,-140117.93,1.0,0.256,-560.47172,250,Ultra Aggressive,Maximum volume strategy
+Optimal,0.16818181818181818,24773.809999999998,0.248,0.06451612903225806,399.5775806451613,62,Optimal,Profit-maximizing
